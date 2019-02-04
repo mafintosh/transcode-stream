@@ -1,6 +1,6 @@
 {
   "name": "transcode-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stream that transcodes video and audio codecs",
   "main": "index.js",
   "dependencies": {
